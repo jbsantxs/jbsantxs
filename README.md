@@ -23,6 +23,14 @@ Eu sou estudante de tecnologia da informação, aspirante a cientista de dados, 
 - **Level: Band 3** - Cambridge Teaching Knowledge Test Certificate 2022;
 - **Level: C2** - EF SET Certificate 2022.
 
+### Encontre-me!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-batista-dos-santos)
+[![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbsantxs@gmail.com)
+
+#### Disponibilidade
+No momento, não estou procurando outras oportunidades de emprego, somente aprimorar o meu conhecimento.
+
 ## Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
