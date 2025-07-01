@@ -31,6 +31,14 @@ Eu sou estudante de tecnologia da informação, aspirante a cientista de dados, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+# Interesses
+![Power Apps](https://img.shields.io/badge/Power%20Apps-9333EA?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-008AD7?style=for-the-badge&logo=icloud&logoColor=white)
+![Data Lake](https://img.shields.io/badge/Data%20Lake-0C234B?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E02020?style=for-the-badge&logo=databricks&logoColor=white)
+
 ## GitHub Stats
 
 
