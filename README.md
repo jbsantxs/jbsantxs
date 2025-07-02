@@ -26,6 +26,7 @@
 
 ### Encontre-me!
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jbsantxs)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-batista-dos-santos)
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbsantxs@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@typagarl#8799/)
@@ -56,6 +57,8 @@ No momento, **não estou procurando outras oportunidades de emprego**, somente a
 ![jbsantxs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jbsantxs&theme=dracula&hide_border=true)
 
 ![jbsantxs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbsantxs&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+
 
 ---
 
