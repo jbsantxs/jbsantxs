@@ -21,8 +21,8 @@
 - Bootcamp Santander 2025 - Back-end em Python *(em andamento)*.
 
 ### Certificados
-- **Cambridge TKT** - Band 3 (2022)  
-- **EF SET** - C2 Proficiente (2022)
+- **Cambridge TKT** - English - Band 3 (2022)  
+- **EF SET** - English - C2 Proficiente (2022)
 
 ### Encontre-me!
 
