@@ -18,7 +18,10 @@
 - 🌱 Aprendendo atualmente: manipulação de dados, ETL e Python.
 
 ### Especializações
-- Bootcamp Santander 2025 - Back-end em Python *(em andamento)*.
+- Bootcamp Santander 2025 - Back-end em Python;
+- Bootcamp Santander 2025 - Ciência de Dados com Python (em andamento);
+- Power Apps - Aplicações Práticas (em andamento);
+- Python Impressionador (em andamento).
 
 ### Certificados
 - **Cambridge TKT** - English - Band 3 (2022)  
