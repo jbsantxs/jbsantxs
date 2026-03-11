@@ -8,7 +8,7 @@
 
 
 ## 🧠 Sobre mim
-- 🎓 Estou cursando [**Ciência de Dados + Google Cloud;**](https://cursos.cruzeirodosulvirtual.com.br/grad-ciencia-de-dados-powered-by-google-cloud-ead-com-aulas-ao-vivo-cruzeiro-do-sul-virtual/p)
+- 🎓 Estou cursando [**Ciência de Dados;**]
 - 💼 Trabalho com aplicação de **ELT e automação de processos**;
 - 🧩 Áreas de interesse:
   - Análise e Visualização de Dados;
