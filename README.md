@@ -8,7 +8,7 @@
 
 
 ## 🧠 Sobre mim
-- 🎓 Estou cursando [**Ciência de Dados;**]
+- 🎓 Estou cursando **Ciência de Dados;**
 - 💼 Trabalho com aplicação de **ELT e automação de processos**;
 - 🧩 Áreas de interesse:
   - Análise e Visualização de Dados;
@@ -19,8 +19,6 @@
 
 ### Especializações
 - Bootcamp Santander 2025 - Back-end em Python;
-- Bootcamp Santander 2025 - Ciência de Dados com Python (em andamento);
-- Power Apps - Aplicações Práticas (em andamento);
 - Python Impressionador (em andamento).
 
 ### Certificados
